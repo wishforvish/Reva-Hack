@@ -1,5 +1,5 @@
 # Reva-Hack
-This is the project on #Space Exploration Plaza: Up, up and Away!! This is built in the National Level Hacakthon of 36 hours at Reva University by the students of Sri Krishna Institute Of Technology.
+This is the project on #Space Exploration Plaza: Up, up and Away🚀!! This is built in the National Level Hacakthon of 36 hours at Reva University by the students of Sri Krishna Institute Of Technology.
 
 Project Description and Introduction:
 We reasearched online to understand the needs and interests of our target audience - teenagers.
