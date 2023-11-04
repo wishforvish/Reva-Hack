@@ -12,11 +12,11 @@ We have developed a website using HTML, CSS, JavaScript, and Bootstrap that aims
 
  Table of Contents
 You can include a table of contents to help users quickly navigate :
-• India's space history and missions
-•Educational resources related to space
-•Space 2060, a vision for the future of space exploration
-•Future space predictions
-•A fun zone with quizzes, puzzles, and a photo booth
+   • India's space history and missions
+   • Educational resources related to space
+   • Space 2060, a vision for the future of space exploration
+   • Future space predictions
+   • A fun zone with quizzes, puzzles, and a photo booth
 
 Installation
 # Clone the repository
